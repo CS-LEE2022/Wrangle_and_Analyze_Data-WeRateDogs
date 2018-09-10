@@ -17,7 +17,7 @@ WeRateDogs is a Twitter account that rates people's dogs with a humorous comment
 ![alt text](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd378f_dog-rates-social/dog-rates-social.jpg)
 
 
-Image is from Udacity.
+(Image is from Udacity.)
 
 
 WeRateDogs [downloaded their Twitter archive](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive) and sent it to Udacity via email exclusively for us to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. 
